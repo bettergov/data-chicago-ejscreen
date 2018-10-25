@@ -1,5 +1,5 @@
 # data_chicago-ejscreen
-Underlying data and analysis scoring Chicago blockgroups using EJSCREEN data. Featured in an interactive map for the BGA story "Interactive Map: Pollution Hits Chicago's West, South Sides Hardest" published October 25, 2018.
+Underlying data and analysis scoring Chicago blockgroups using EJSCREEN data. Featured in an interactive map for the BGA story ["Interactive Map: Pollution Hits Chicago's West, South Sides Hardest"](https://www.bettergov.org/news/interactive-map-pollution-hits-chicagos-west-south-sides-hardest) published October 25, 2018.
 
 ## What's here?
 
